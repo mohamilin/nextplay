@@ -6,11 +6,10 @@ function Home() {
        <>
         <div className="App">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>
-          NEXTPLAY
+        <h1 style={{letterSpacing: 20}} >
+          NEXTPLAYS
         </h1>
-        <br/>
-        <p>Cool Movie Application </p>
+        <p style={{marginTop: -15, letterSpacing: 10}}>The Great Movie Application </p>
     </div>
        </>
     )
