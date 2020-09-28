@@ -9,7 +9,7 @@ function Home() {
         <h1 style={{letterSpacing: 20}} >
           NEXTPLAYS
         </h1>
-        <p style={{marginTop: -15, letterSpacing: 10}}>The Great Movie Application </p>
+        <p style={{marginTop: -15, letterSpacing: 10}}>The Movie Application </p>
     </div>
        </>
     )
